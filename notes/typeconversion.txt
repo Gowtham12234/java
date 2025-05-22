@@ -1,0 +1,10 @@
+                    java type conversion
+
+
+    1)widening conversion -->  no loss of data..
+
+        small->big(byte->double)
+
+    2)narrowing conversion  -> loss of data..
+         
+         big ->small(double-> byte)
